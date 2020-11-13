@@ -1,0 +1,45 @@
+C:\Users\Sasa\source\repos\HotelRecord\HotelRecord.BussinessLogic\bin\Debug\netstandard2.0\HotelRecord.BussinessLogic.deps.json
+C:\Users\Sasa\source\repos\HotelRecord\HotelRecord.BussinessLogic\bin\Debug\netstandard2.0\HotelRecord.BussinessLogic.dll
+C:\Users\Sasa\source\repos\HotelRecord\HotelRecord.BussinessLogic\bin\Debug\netstandard2.0\HotelRecord.BussinessLogic.pdb
+C:\Users\Sasa\source\repos\HotelRecord\HotelRecord.BussinessLogic\bin\Debug\netstandard2.0\HotelRecord.Repository.dll
+C:\Users\Sasa\source\repos\HotelRecord\HotelRecord.BussinessLogic\bin\Debug\netstandard2.0\HotelRecord.Repository.pdb
+C:\Users\Sasa\source\repos\HotelRecord\HotelRecord.BussinessLogic\obj\Debug\netstandard2.0\HotelRecord.BussinessLogic.csprojAssemblyReference.cache
+C:\Users\Sasa\source\repos\HotelRecord\HotelRecord.BussinessLogic\obj\Debug\netstandard2.0\HotelRecord.BussinessLogic.AssemblyInfoInputs.cache
+C:\Users\Sasa\source\repos\HotelRecord\HotelRecord.BussinessLogic\obj\Debug\netstandard2.0\HotelRecord.BussinessLogic.AssemblyInfo.cs
+C:\Users\Sasa\source\repos\HotelRecord\HotelRecord.BussinessLogic\obj\Debug\netstandard2.0\HotelRecord.BussinessLogic.csproj.CopyComplete
+C:\Users\Sasa\source\repos\HotelRecord\HotelRecord.BussinessLogic\obj\Debug\netstandard2.0\HotelRecord.BussinessLogic.dll
+C:\Users\Sasa\source\repos\HotelRecord\HotelRecord.BussinessLogic\obj\Debug\netstandard2.0\HotelRecord.BussinessLogic.pdb
+C:\Users\Sasa\Desktop\privremeni\HotelRecord\HotelRecord.BussinessLogic\bin\Debug\netstandard2.0\HotelRecord.BussinessLogic.deps.json
+C:\Users\Sasa\Desktop\privremeni\HotelRecord\HotelRecord.BussinessLogic\bin\Debug\netstandard2.0\HotelRecord.BussinessLogic.dll
+C:\Users\Sasa\Desktop\privremeni\HotelRecord\HotelRecord.BussinessLogic\bin\Debug\netstandard2.0\HotelRecord.BussinessLogic.pdb
+C:\Users\Sasa\Desktop\privremeni\HotelRecord\HotelRecord.BussinessLogic\bin\Debug\netstandard2.0\HotelRecord.Repository.dll
+C:\Users\Sasa\Desktop\privremeni\HotelRecord\HotelRecord.BussinessLogic\bin\Debug\netstandard2.0\HotelRecord.Repository.pdb
+C:\Users\Sasa\Desktop\privremeni\HotelRecord\HotelRecord.BussinessLogic\obj\Debug\netstandard2.0\HotelRecord.BussinessLogic.csprojAssemblyReference.cache
+C:\Users\Sasa\Desktop\privremeni\HotelRecord\HotelRecord.BussinessLogic\obj\Debug\netstandard2.0\HotelRecord.BussinessLogic.AssemblyInfoInputs.cache
+C:\Users\Sasa\Desktop\privremeni\HotelRecord\HotelRecord.BussinessLogic\obj\Debug\netstandard2.0\HotelRecord.BussinessLogic.AssemblyInfo.cs
+C:\Users\Sasa\Desktop\privremeni\HotelRecord\HotelRecord.BussinessLogic\obj\Debug\netstandard2.0\HotelRecord.BussinessLogic.csproj.CopyComplete
+C:\Users\Sasa\Desktop\privremeni\HotelRecord\HotelRecord.BussinessLogic\obj\Debug\netstandard2.0\HotelRecord.BussinessLogic.dll
+C:\Users\Sasa\Desktop\privremeni\HotelRecord\HotelRecord.BussinessLogic\obj\Debug\netstandard2.0\HotelRecord.BussinessLogic.pdb
+C:\Users\Sasa\Desktop\New folder (2)\HotelRecord\HotelRecord\HotelRecord.BussinessLogic\bin\Debug\netstandard2.0\HotelRecord.BussinessLogic.deps.json
+C:\Users\Sasa\Desktop\New folder (2)\HotelRecord\HotelRecord\HotelRecord.BussinessLogic\bin\Debug\netstandard2.0\HotelRecord.BussinessLogic.dll
+C:\Users\Sasa\Desktop\New folder (2)\HotelRecord\HotelRecord\HotelRecord.BussinessLogic\bin\Debug\netstandard2.0\HotelRecord.BussinessLogic.pdb
+C:\Users\Sasa\Desktop\New folder (2)\HotelRecord\HotelRecord\HotelRecord.BussinessLogic\bin\Debug\netstandard2.0\HotelRecord.Repository.dll
+C:\Users\Sasa\Desktop\New folder (2)\HotelRecord\HotelRecord\HotelRecord.BussinessLogic\bin\Debug\netstandard2.0\HotelRecord.Repository.pdb
+C:\Users\Sasa\Desktop\New folder (2)\HotelRecord\HotelRecord\HotelRecord.BussinessLogic\obj\Debug\netstandard2.0\HotelRecord.BussinessLogic.csprojAssemblyReference.cache
+C:\Users\Sasa\Desktop\New folder (2)\HotelRecord\HotelRecord\HotelRecord.BussinessLogic\obj\Debug\netstandard2.0\HotelRecord.BussinessLogic.AssemblyInfoInputs.cache
+C:\Users\Sasa\Desktop\New folder (2)\HotelRecord\HotelRecord\HotelRecord.BussinessLogic\obj\Debug\netstandard2.0\HotelRecord.BussinessLogic.AssemblyInfo.cs
+C:\Users\Sasa\Desktop\New folder (2)\HotelRecord\HotelRecord\HotelRecord.BussinessLogic\obj\Debug\netstandard2.0\HotelRecord.BussinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\Sasa\Desktop\New folder (2)\HotelRecord\HotelRecord\HotelRecord.BussinessLogic\obj\Debug\netstandard2.0\HotelRecord.BussinessLogic.csproj.CopyComplete
+C:\Users\Sasa\Desktop\New folder (2)\HotelRecord\HotelRecord\HotelRecord.BussinessLogic\obj\Debug\netstandard2.0\HotelRecord.BussinessLogic.dll
+C:\Users\Sasa\Desktop\New folder (2)\HotelRecord\HotelRecord\HotelRecord.BussinessLogic\obj\Debug\netstandard2.0\HotelRecord.BussinessLogic.pdb
+C:\Users\Sasa\Desktop\140.9\HotelRecord\HotelRecord\HotelRecord.BussinessLogic\bin\Debug\netstandard2.0\HotelRecord.BussinessLogic.deps.json
+C:\Users\Sasa\Desktop\140.9\HotelRecord\HotelRecord\HotelRecord.BussinessLogic\bin\Debug\netstandard2.0\HotelRecord.BussinessLogic.dll
+C:\Users\Sasa\Desktop\140.9\HotelRecord\HotelRecord\HotelRecord.BussinessLogic\bin\Debug\netstandard2.0\HotelRecord.BussinessLogic.pdb
+C:\Users\Sasa\Desktop\140.9\HotelRecord\HotelRecord\HotelRecord.BussinessLogic\bin\Debug\netstandard2.0\HotelRecord.Repository.dll
+C:\Users\Sasa\Desktop\140.9\HotelRecord\HotelRecord\HotelRecord.BussinessLogic\bin\Debug\netstandard2.0\HotelRecord.Repository.pdb
+C:\Users\Sasa\Desktop\140.9\HotelRecord\HotelRecord\HotelRecord.BussinessLogic\obj\Debug\netstandard2.0\HotelRecord.BussinessLogic.csprojAssemblyReference.cache
+C:\Users\Sasa\Desktop\140.9\HotelRecord\HotelRecord\HotelRecord.BussinessLogic\obj\Debug\netstandard2.0\HotelRecord.BussinessLogic.AssemblyInfoInputs.cache
+C:\Users\Sasa\Desktop\140.9\HotelRecord\HotelRecord\HotelRecord.BussinessLogic\obj\Debug\netstandard2.0\HotelRecord.BussinessLogic.AssemblyInfo.cs
+C:\Users\Sasa\Desktop\140.9\HotelRecord\HotelRecord\HotelRecord.BussinessLogic\obj\Debug\netstandard2.0\HotelRecord.BussinessLogic.csproj.CopyComplete
+C:\Users\Sasa\Desktop\140.9\HotelRecord\HotelRecord\HotelRecord.BussinessLogic\obj\Debug\netstandard2.0\HotelRecord.BussinessLogic.dll
+C:\Users\Sasa\Desktop\140.9\HotelRecord\HotelRecord\HotelRecord.BussinessLogic\obj\Debug\netstandard2.0\HotelRecord.BussinessLogic.pdb

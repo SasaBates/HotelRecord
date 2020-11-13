@@ -1,0 +1,67 @@
+<div class="center">
+    <h1 style="text-align:center;" >Add Hotels</h1>
+  </div>
+<form #form="ngForm" (submit)="onSubmit(form)" autocomplete="off">
+    <input type="hidden" name="hotelId" #hotelId="ngModel"  [(ngModel)]="hotelService.formData.hotelId">
+    <div class="text-center">
+        <label>Hotel name</label>
+    </div>
+    <div class="form-grupe" class="text-center">
+        <input name="name" #name="ngModel"  [(ngModel)]="hotelService.formData.name" class="from-controle" required>
+        <div class="validation-error" *ngIf="name.invalid && name.touched">This fild is required</div>
+    </div>
+    <div class="text-center">
+        <label>Opening Year</label>
+    </div>
+    <div class="form-grupe" class="text-center">
+        <input name="openingYear" #openingYear="ngModel" type="date" [(ngModel)]="hotelService.formData.openingYear" class="from-controle">
+    </div>
+    <div class="text-center">
+        <label>Number of employees</label>
+    </div>
+    <div class="form-grupe" class="text-center">
+        <input name="numberOfEmployees" #numberOfEmployees="ngModel" type="number" [(ngModel)]="hotelService.formData.numberOfEmployees" class="from-controle">
+    </div>
+    <div class="text-center">
+        <label>Number of rooms</label>
+    </div>
+    <div class="form-grupe" class="text-center">
+        <input name="numberOfRooms" #numberOfRooms="ngModel" type="number" [(ngModel)]="hotelService.formData.numberOfRooms" class="from-controle">
+    </div>
+    <div class="text-center">
+        <label>Hotel chain Id</label>
+    </div>
+    <div class="form-grupe" class="text-center">
+        <input name="hotelChainId" #hotelChainId="ngModel"  type="number" [(ngModel)]="hotelService.formData.hotelChainId" class="from-controle">
+    </div>
+    <div class="form-grup" class="text-center">
+        <button type="submit" [disabled]="form.invalid" class="btn btn-outline-secondary">Submit</button>
+    </div>
+</form>
+
+<div class="center">
+    <h1 style="font-size:150%; text-align:center;" >All Hotels Chain</h1>
+  </div>
+  
+  <div style="margin:50px;">
+  <div class="table-responsive"> 
+  <table class="table table-striped">
+    <tr>  
+      <th>Name</th>
+      <th>Hotel Id</th>
+      <th>Hotel opening year</th>
+      
+      
+    </tr>
+    <tbody>
+      <tr *ngFor= 'let hotelChain of hotelChains'>
+        <td  >{{hotelChain.name}}</td>
+        <td > {{hotelChain.hotelChainId}}</td>
+        <td  > {{hotelChain.yearOfEstablishment  | date}}</td>
+        <td> <button (click)="deleteChain(hotelChain.hotelChainId)" type="button" class="deletebtn">Delete</button>
+        </td>
+        </tr>
+    </tbody>
+  </table>
+  </div>
+  </div>

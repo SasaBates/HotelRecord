@@ -1,0 +1,34 @@
+
+  
+  <div class="center">
+    <h1 style=" text-align:center;">All Hotels</h1>
+  </div>
+  
+  <div style="margin:5px;">
+  <div class="table-responsive"> 
+  <table class="table table-striped">
+    <tr>  
+      <th>Name</th>
+      <th>Hotel Id</th> 
+      <th>Hotel opening year</th>
+      <th>Number of employees</th>
+      <th>Number of rooms</th>
+      <th>Hotel Chain Id</th>
+      
+    </tr>
+    <tbody>
+      <tr *ngFor= 'let hotel of hotels'>
+        <td (click)="populateForm(hotel)">{{hotel.name}}</td>
+        <td (click)="populateForm(hotel)"> {{hotel.hotelId}}</td>
+        <td (click)="populateForm(hotel)"> {{hotel.openingYear | date}}</td>
+        <td (click)="populateForm(hotel)"> {{hotel.numberOfEmployees}}</td>
+        <td (click)="populateForm(hotel)"> {{hotel.numberOfRooms}}</td>
+        <td (click)="populateForm(hotel)">{{hotel.hotelChainId}}</td>
+        <td> <button (click)="delete(hotel.hotelId)" type="button" class="deletebtn">Delete</button>
+        </td>
+        
+        </tr>
+    </tbody>
+  </table>
+  </div>
+  </div>

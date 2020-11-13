@@ -1,0 +1,33 @@
+C:\Users\Sasa\source\repos\HotelRecord\HotelRecord.Repository\bin\Debug\netstandard2.0\HotelRecord.Repository.deps.json
+C:\Users\Sasa\source\repos\HotelRecord\HotelRecord.Repository\bin\Debug\netstandard2.0\HotelRecord.Repository.dll
+C:\Users\Sasa\source\repos\HotelRecord\HotelRecord.Repository\obj\Debug\netstandard2.0\HotelRecord.Repository.csprojAssemblyReference.cache
+C:\Users\Sasa\source\repos\HotelRecord\HotelRecord.Repository\obj\Debug\netstandard2.0\HotelRecord.Repository.AssemblyInfoInputs.cache
+C:\Users\Sasa\source\repos\HotelRecord\HotelRecord.Repository\obj\Debug\netstandard2.0\HotelRecord.Repository.AssemblyInfo.cs
+C:\Users\Sasa\source\repos\HotelRecord\HotelRecord.Repository\bin\Debug\netstandard2.0\HotelRecord.Repository.pdb
+C:\Users\Sasa\source\repos\HotelRecord\HotelRecord.Repository\obj\Debug\netstandard2.0\HotelRecord.Repository.dll
+C:\Users\Sasa\source\repos\HotelRecord\HotelRecord.Repository\obj\Debug\netstandard2.0\HotelRecord.Repository.pdb
+C:\Users\Sasa\Desktop\privremeni\HotelRecord\HotelRecord.Repository\bin\Debug\netstandard2.0\HotelRecord.Repository.deps.json
+C:\Users\Sasa\Desktop\privremeni\HotelRecord\HotelRecord.Repository\bin\Debug\netstandard2.0\HotelRecord.Repository.dll
+C:\Users\Sasa\Desktop\privremeni\HotelRecord\HotelRecord.Repository\bin\Debug\netstandard2.0\HotelRecord.Repository.pdb
+C:\Users\Sasa\Desktop\privremeni\HotelRecord\HotelRecord.Repository\obj\Debug\netstandard2.0\HotelRecord.Repository.csprojAssemblyReference.cache
+C:\Users\Sasa\Desktop\privremeni\HotelRecord\HotelRecord.Repository\obj\Debug\netstandard2.0\HotelRecord.Repository.AssemblyInfoInputs.cache
+C:\Users\Sasa\Desktop\privremeni\HotelRecord\HotelRecord.Repository\obj\Debug\netstandard2.0\HotelRecord.Repository.AssemblyInfo.cs
+C:\Users\Sasa\Desktop\privremeni\HotelRecord\HotelRecord.Repository\obj\Debug\netstandard2.0\HotelRecord.Repository.dll
+C:\Users\Sasa\Desktop\privremeni\HotelRecord\HotelRecord.Repository\obj\Debug\netstandard2.0\HotelRecord.Repository.pdb
+C:\Users\Sasa\Desktop\New folder (2)\HotelRecord\HotelRecord\HotelRecord.Repository\bin\Debug\netstandard2.0\HotelRecord.Repository.deps.json
+C:\Users\Sasa\Desktop\New folder (2)\HotelRecord\HotelRecord\HotelRecord.Repository\bin\Debug\netstandard2.0\HotelRecord.Repository.dll
+C:\Users\Sasa\Desktop\New folder (2)\HotelRecord\HotelRecord\HotelRecord.Repository\bin\Debug\netstandard2.0\HotelRecord.Repository.pdb
+C:\Users\Sasa\Desktop\New folder (2)\HotelRecord\HotelRecord\HotelRecord.Repository\obj\Debug\netstandard2.0\HotelRecord.Repository.csprojAssemblyReference.cache
+C:\Users\Sasa\Desktop\New folder (2)\HotelRecord\HotelRecord\HotelRecord.Repository\obj\Debug\netstandard2.0\HotelRecord.Repository.AssemblyInfoInputs.cache
+C:\Users\Sasa\Desktop\New folder (2)\HotelRecord\HotelRecord\HotelRecord.Repository\obj\Debug\netstandard2.0\HotelRecord.Repository.AssemblyInfo.cs
+C:\Users\Sasa\Desktop\New folder (2)\HotelRecord\HotelRecord\HotelRecord.Repository\obj\Debug\netstandard2.0\HotelRecord.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Sasa\Desktop\New folder (2)\HotelRecord\HotelRecord\HotelRecord.Repository\obj\Debug\netstandard2.0\HotelRecord.Repository.dll
+C:\Users\Sasa\Desktop\New folder (2)\HotelRecord\HotelRecord\HotelRecord.Repository\obj\Debug\netstandard2.0\HotelRecord.Repository.pdb
+C:\Users\Sasa\Desktop\140.9\HotelRecord\HotelRecord\HotelRecord.Repository\bin\Debug\netstandard2.0\HotelRecord.Repository.deps.json
+C:\Users\Sasa\Desktop\140.9\HotelRecord\HotelRecord\HotelRecord.Repository\bin\Debug\netstandard2.0\HotelRecord.Repository.dll
+C:\Users\Sasa\Desktop\140.9\HotelRecord\HotelRecord\HotelRecord.Repository\bin\Debug\netstandard2.0\HotelRecord.Repository.pdb
+C:\Users\Sasa\Desktop\140.9\HotelRecord\HotelRecord\HotelRecord.Repository\obj\Debug\netstandard2.0\HotelRecord.Repository.csprojAssemblyReference.cache
+C:\Users\Sasa\Desktop\140.9\HotelRecord\HotelRecord\HotelRecord.Repository\obj\Debug\netstandard2.0\HotelRecord.Repository.AssemblyInfoInputs.cache
+C:\Users\Sasa\Desktop\140.9\HotelRecord\HotelRecord\HotelRecord.Repository\obj\Debug\netstandard2.0\HotelRecord.Repository.AssemblyInfo.cs
+C:\Users\Sasa\Desktop\140.9\HotelRecord\HotelRecord\HotelRecord.Repository\obj\Debug\netstandard2.0\HotelRecord.Repository.dll
+C:\Users\Sasa\Desktop\140.9\HotelRecord\HotelRecord\HotelRecord.Repository\obj\Debug\netstandard2.0\HotelRecord.Repository.pdb
